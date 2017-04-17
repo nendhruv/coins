@@ -19,4 +19,4 @@ Run the application at http://localhost:3000/
 
 
 ### Assumptions 
-You have node, npm, bower already install on your machine
+You have node, npm, bower already installed on your machine
