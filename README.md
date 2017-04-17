@@ -7,6 +7,8 @@ Eg. 123p = 1 x £1, 1 x 20p, 1 x 2p, 1 x 1p
 
 
 ### How to run
+Open your terminal and then
+
 1) git clone https://github.com/nendhruv/coins.git
 2) cd coins
 3) npm install
@@ -14,3 +16,7 @@ Eg. 123p = 1 x £1, 1 x 20p, 1 x 2p, 1 x 1p
 5) node app.js
 
 Run the application at http://localhost:3000/
+
+
+### Assumptions 
+You have node, npm, bower already install on your machine
