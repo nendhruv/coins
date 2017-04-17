@@ -1,7 +1,7 @@
 {
-  "name": "sf-food-truck",
+  "name": "coin-calculator",
   "version": "1.0.0",
-  "description": "Food trucks available in san francisco",
+  "description": "Coin Calculator",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,18 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nendhruv/SF-FOOD-TRUCK.git"
+    "url": "git+https://github.com/nendhruv/coins.git"
   },
   "author": "nendhruv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nendhruv/SF-FOOD-TRUCK/issues"
+    "url": "https://github.com/nendhruv/coins/issues"
   },
-  "homepage": "https://github.com/nendhruv/SF-FOOD-TRUCK#readme",
+  "homepage": "https://github.com/nendhruv/coins#readme",
   "dependencies": {
     "bower": "^1.8.0",
     "ejs": "^2.5.5",
-    "express": "^4.14.1",
-    "unirest": "^0.5.1"
+    "express": "^4.14.1"
   }
 }

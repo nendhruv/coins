@@ -1,3 +1,3 @@
-angular.module('FoodTruckApp', [
-  'FoodTruckApp.controllers' ,'ui.bootstrap','ngMap'
+angular.module('CoinCalculatorApp', [
+  'CoinCalculatorApp.controllers'
 ]);

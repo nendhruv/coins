@@ -1,15 +1,9 @@
 {
-  "name": "foodtruck",
-  "version": "0.4.0",
-  "description": "Food Trucks in San Fransico",
+  "name": "coin-calculator",
+  "version": "1.0.0",
+  "description": "Coin Calculator",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "angular-bootstrap": "^2.5.0",
-    "angular-route": "^1.6.1",
-    "angular-ui-router": "ui-router#^0.4.2",
-    "angular": "^1.6.1",
-    "ui-bootstrap": "^2.5.0",
-    "angular-google-maps": "^2.4.1",
-    "ngmap": "^1.17.8"
+    "angular": "^1.6.1"
   }
 }

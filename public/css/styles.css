@@ -1,123 +1,21 @@
-.angular-google-map-container {
-  height: 400px;
+.content{
+  margin-top: 7%;
+  text-align: center;
 }
 
-.left-nav{
-  background: #fff;
-  min-height: 100vh;
-  z-index: 1;
-  margin-top: -11%;
-  box-shadow: 1px 0px 10px rgba(0,0,0,0.50);
+.heading{
+  background: #d9edf7;
+  font-size: 1.3em;
+  border: 1px solid #bce8f1;
 }
 
-.label-div{
-  background: blue;
-  height: 170px;
+.results{
+  border: 1px solid #bce8f1;
+  border-radius: 4px;
 }
 
-.back i:hover{
-  cursor: pointer;
-}
-
-.back i {
-  margin: 3% 0% 0 6%;
-}
-
-.back{
-  background: blue;
-  color: #fff;
-  margin-left: 0%;
-}
-
-.left-nav ul li{
-  list-style-type: none;
-  border-bottom: 1px solid #ddd;
+.results div{
   padding: 2%;
-}
-
-.left-nav ul li:hover{
-  background: #efefef;
-  cursor: pointer;
-}
-
-.left-nav ul{
-  padding-left: 0;
-}
-
-.col-sm-12{
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.row{
-  margin-left: 0;
-  margin-right: 0;
-}
-
-.search-form{
-   width: 30%;
-   position: fixed;
-   /*margin-left: 1%;*/
-   z-index: 1;
-   height: 100%;
-   overflow: auto;
-   /*top: 9%;*/
-}
-
-.loader span{
-  left: 47%;
-  position: relative;
-  top: 50%;
-}
-
-.loader{
-  position: absolute;
-  top: 0;
-  background: rgba(255,255,255,0.9);
-  /*background: #000;*/
-  height: 100%;
-  width: 100%;
-  z-index: 10;
-  /*color: #fff;*/
-  left: 0;
-}
-
-.label-heading{
-  background: blue;
-  height: 80px;
-  padding: 6%;
-  color: #fff;
-  font-size: 1.5em;
   font-weight: bold;
-}
-
-.place-details{
-  padding: 2.5%;
-  font-size: 1.1em;
-}
-
-.place-details span{
-  font-weight: bold;
-}
-
-.truck-detail{
-  position: fixed;
-  width: 30%;
-  margin: 0;
-}
-
-.search-form .map-input{
-  height: 40px;
-  z-index: 3;
-  display: inline;
-  margin-left: 2%;
-  position: fixed;
-  top: 7%;
-  width: 25%;
-  border-radius: 0;
-  box-shadow: 0px 2px 2px rgba(0,0,0,0.20);
-}
-
-.app-map{
-  height: 100vh;
+  font-size: 1.2em;
 }
