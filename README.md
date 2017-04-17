@@ -12,4 +12,5 @@ Eg. 123p = 1 x £1, 1 x 20p, 1 x 2p, 1 x 1p
 3) npm install
 4) bower install
 5) node app.js
+
 Run the application at http://localhost:3000/
